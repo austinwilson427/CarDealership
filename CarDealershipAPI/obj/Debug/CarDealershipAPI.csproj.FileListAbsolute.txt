@@ -1,0 +1,158 @@
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\roslyn\csc.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\roslyn\vbc.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\CarDealershipAPI.dll.config
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\CarDealershipAPI.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\CarDealershipAPI.pdb
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Antlr3.Runtime.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\EntityFramework.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Newtonsoft.Json.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Owin.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Helpers.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Http.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Http.Owin.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Mvc.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Optimization.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Razor.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.WebPages.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\WebGrease.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Newtonsoft.Json.xml
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Helpers.xml
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Http.xml
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Mvc.xml
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Optimization.xml
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Razor.xml
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.WebPages.xml
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\EntityFramework.xml
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.xml
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Http.Owin.xml
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\obj\Debug\CarDealershipAPI.csprojResolveAssemblyReference.cache
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\obj\Debug\CarDealershipAPI.Migrations.start.resources
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\obj\Debug\CarDealershipAPI.csproj.GenerateResource.Cache
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\obj\Debug\CarDealershipAPI.dll
+C:\Users\Lauren\Documents\Visual Studio 2015\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\obj\Debug\CarDealershipAPI.pdb
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\roslyn\csc.exe
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\roslyn\vbc.exe
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\roslyn\VBCSCompiler.exe
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\CarDealershipAPI.dll.config
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\CarDealershipAPI.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\CarDealershipAPI.pdb
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Antlr3.Runtime.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\EntityFramework.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\EntityFramework.SqlServer.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.Google.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Newtonsoft.Json.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Owin.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Net.Http.Formatting.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Helpers.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Http.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Http.Owin.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Http.WebHost.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Mvc.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Optimization.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Razor.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.WebPages.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.WebPages.Razor.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\WebGrease.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Newtonsoft.Json.xml
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Net.Http.Formatting.xml
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Helpers.xml
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Http.xml
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Http.WebHost.xml
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Mvc.xml
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Optimization.xml
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Razor.xml
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.WebPages.xml
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.WebPages.Razor.xml
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Antlr3.Runtime.pdb
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\EntityFramework.xml
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\EntityFramework.SqlServer.xml
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.xml
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.xml
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.Google.xml
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\bin\System.Web.Http.Owin.xml
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\obj\Debug\CarDealershipAPI.csprojResolveAssemblyReference.cache
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\obj\Debug\CarDealershipAPI.Migrations.start.resources
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\obj\Debug\CarDealershipAPI.csproj.GenerateResource.Cache
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\obj\Debug\CarDealershipAPI.dll
+E:\Projects\clone1\FullStackNET\Unit 02 - AngularJS\CarDealershipAPI\CarDealershipAPI\obj\Debug\CarDealershipAPI.pdb

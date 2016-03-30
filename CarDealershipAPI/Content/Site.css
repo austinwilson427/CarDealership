@@ -1,0 +1,82 @@
+﻿body {
+    background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("http://www.mbuh.xyz/p/car-wallpaper-desktop-5z4w.jpg") no-repeat center;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    background-attachment: fixed;
+    margin: 0;
+}
+
+img{
+    height: 225px;
+    width: 300px;
+}
+
+table.cars{
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("http://www.mbuh.xyz/p/car-wallpaper-desktop-5z4w.jpg") no-repeat center;
+}
+
+ table.search_results{
+      background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("http://www.mbuh.xyz/p/car-wallpaper-desktop-5z4w.jpg") no-repeat center;
+          width: 60%;
+             margin: 0 auto 10px;
+             color: white;
+ }
+
+ table.search_results td:first-child{
+     border-left: 1px solid #ddd;
+ }
+
+ table.search_results td:last-child{
+     border-right: 1px solid #ddd;
+ }
+
+ table.search_results tr:last-child td{
+     border-bottom: 1px solid #ddd;
+ }
+table.cars td{
+    padding-left: 50px;
+}
+
+table.cars tr:hover, table.cars tr:hover a:link,
+table.search_results tr:hover, table.search_results tr:hover a:link{
+    color:black;
+}
+
+table.cars tr:hover a:link:hover, table.search_results tr:hover a:link:hover {
+    color: blue;
+    text-decoration: none;
+}
+
+table.cars td.short_description{
+
+    font-size: 24px !important;
+    vertical-align: middle;
+    text-align: left;
+    padding-right: 50px;
+}
+
+table.search_results td.short_description{
+    vertical-align: middle;
+    text-align: left;
+    padding-right: 50px;
+}
+
+table.search_results img{
+    height: 150px;
+    width: 200px;
+}
+
+a:link, a:visited{
+    color: white;
+}
+
+a:link:hover, a:visited:hover{
+    color: blue;
+}
+
+.my_modal_wrap{
+    color:#333 ;
+}

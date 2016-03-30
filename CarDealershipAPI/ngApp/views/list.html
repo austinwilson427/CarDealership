@@ -1,0 +1,35 @@
+﻿<div class="contain">
+    <div class="row">
+        <div class="col-md-4 col-md-offset-4 text-center form-group">
+            <label class="search_label">Search For Cars</label>
+            <input class="form-control text-center" ng-model="vm.searchPhrase" ng-model-options="{debounce:100}" ng-change="vm.fetch()" />
+        </div>
+    </div>
+    <table class="search_results table table-hover">
+        <tr ng-repeat="results in vm.searchResults | filter:{shortDescription: vm.searchPhrase}">
+            <td><a href="{{results.imageUrl}}"><img src="{{results.imageUrl}}" /></a></td>
+            <td class="short_description"><a href="#" ng-click="vm.showCarDetailsModal(results)">{{results.shortDescription}}</a></td>
+        </tr>
+    </table>
+    <div class="row">
+        <div class="col-md-2 col-md-offset-5">
+            <select class="form-control" ng-model="vm.selectedMakeDetails" ng-options="make.name for make in vm.makesDetails" ng-change="vm.showCarsByModel()"></select>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+            <table class="table table-responsive table-hover cars">
+                <tr>
+                    <th>Image</th>
+                    <th>Model</th>
+                </tr>
+                <tr ng-repeat="details in vm.carsDetails | filter: {carMakeId: vm.selectedMakeDetails.id}">
+                    <td><a href="{{details.imageUrl}}"><img src="{{details.imageUrl}}" /></a></td>
+                    <td class="short_description"><a href="#" ng-click="vm.showCarDetailsModal(details)">{{details.shortDescription}}</a></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+</div>

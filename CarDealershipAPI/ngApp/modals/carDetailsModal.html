@@ -1,0 +1,11 @@
+﻿<div class="my_modal_wrap contain">
+    <div class="modal-header">
+        {{vm.data.fullDescription}}
+    </div>
+    <div class="modal-body">
+        <h2>Price: {{vm.data.price|currency}}</h2>
+    </div>
+    <div class="modal-footer">
+        <button class="btn btn-primary" ng-click="vm.closeModal()">Close</button>
+    </div>
+</div>
